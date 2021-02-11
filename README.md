@@ -251,7 +251,7 @@ ssh trainingXXX@mahti.csc.fi
 
 #### Watch how to do this on youtube
 
-{%youtube ExhJusg5iD4 %}
+https://www.youtube.com/watch?v=Y5Uy4y86Yus=ExhJusg5iD4
 
 
 
@@ -425,7 +425,7 @@ Note over Your Computer: browser address\nopen jupyter notebook\n run tutorial
 
 #### Watch how to do this on youtube
 
-{%youtube Q2w0ACywLdY %}
+https://www.youtube.com/watch?v=Q2w0ACywLdY
 
 Open connection to Puhti, set up environment:
 #### Start a singularity image
